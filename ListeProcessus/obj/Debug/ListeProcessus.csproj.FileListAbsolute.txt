@@ -1,0 +1,10 @@
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\bin\Debug\ListeProcessus.exe.config
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\bin\Debug\ListeProcessus.exe
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\bin\Debug\ListeProcessus.pdb
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.csproj.AssemblyReference.cache
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.Properties.Resources.resources
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.csproj.GenerateResource.cache
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.exe
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.pdb
+C:\Users\ismai\source\repos\ListeProcessus\ListeProcessus\obj\Debug\ListeProcessus.ProcessApp.resources
